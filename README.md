@@ -6,7 +6,7 @@
 
 
 - 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** </br>
-- 👀 I’m interested in **Developing**, **Designing**.</br></br>
+- 👀 I’m interested in **Software Developing**,**Game Developing**, **UI/UX Designing**.</br></br>
 
 
 <h3 align="left">Connect with me:</h3>
