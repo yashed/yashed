@@ -6,8 +6,8 @@
 
 
 - 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** </br>
-- 👀 I’m interested in **Software Developing**, **Game Developing**, **UI/UX Designing**.</br></br>
-- 📫 How to reach me <strong>yashedthisara2001@gmail.com</strong>
+- 👀 I’m interested in **Software Developing**, **Game Developing**, **UI/UX Designing**.</br>
+- 📫 How to reach me <strong>yashedthisara2001@gmail.com</strong></br></br>
 
 
 <h3 align="left">Connect with me:</h3>
