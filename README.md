@@ -16,7 +16,7 @@
 <a href="https://fb.com/yashed.thisara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yashed.thisara" height="35" width="35" /></a>
 <a href="https://twitter.com/yashed6" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="yashed6" height="38" width="38" /></a>
 <a href="https://instagram.com/yashh._.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashh._.h" height="35" width="35" /></a>
-<a href="https://dribbble.com/yashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yashed" height="35" width="35" /></a>
+<a href="[https://dribbble.com/yashed](https://dribbble.com/Yashed)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yashed" height="35" width="35" /></a>
 <a href="https://www.behance.net/yashedthisara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yashedthisara" height="35" width="35" /></a>
 </p>
 <hr>
