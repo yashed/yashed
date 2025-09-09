@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashed Thisara</h1>
 <h3 align="center">A passionate Developer and Designer from Sri Lanka</h3>
 <div id="header" align="center">
-<img  width='210px' height="210px" align="center" alt="GIF" src="https://fleonardelli.com/img/image.gif" />
-</div></br></br>
+<img  width='210px' height="210px" align="center" alt="GIF" src="Assets/Coder_Boy.gif" />
+</div></br>
 
 
 - 👨‍💻 I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** </br>
