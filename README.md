@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashed Thisara</h1>
 <h3 align="center">A passionate Developer and Designer from Sri Lanka</h3>
 <div id="header" align="center">
-<img  width='200px' height="176px" align="center" alt="GIF" src="https://fleonardelli.com/img/image.gif" />
+<img  width='220px' height="220px" align="center" alt="GIF" src="https://fleonardelli.com/img/image.gif" />
 </div></br></br>
 
 
