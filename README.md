@@ -1,112 +1,76 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Yashed%20Thisara&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20WSO2&descSize=18&descAlignY=58&descColor=bfdbfe&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+WSO2;CS+Undergraduate+%40+UCSC;Full+Stack+Developer;UI%2FUX+Designer+%7C+Game+Developer)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=yashed&style=flat-square&color=38bdf8&label=Profile+Views"/>
-
-</div>
-
-<br/>
-
----
-
-### 👤 About Me
-
-- 🏢 **Software Engineer** at **[WSO2](https://wso2.com)**
-- 🎓 **CS Undergraduate** — University of Colombo School of Computing
-- 👀 Interested in **Software Development**, **Game Development** & **UI/UX Design**
-- 📫 **yashedthisara2001@gmail.com**
-
----
-
-### 🌐 Connect
+<h1 align="center">Yashed Thisara</h1>
 
 <p align="center">
+  Software Engineer @ <a href="https://wso2.com">WSO2</a> &nbsp;·&nbsp;
+  CS Undergraduate @ UCSC &nbsp;·&nbsp; Sri Lanka 🇱🇰
+</p>
+
+<p align="center">
+  <a href="mailto:yashedthisara2001@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?&logo=gmail"/>
+  </a>
   <a href="https://linkedin.com/in/yashed-thisara-8b5135219">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"/>
   </a>
   <a href="https://twitter.com/yashed6">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yashh._.h">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://fb.com/yashed.thisara">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-X-000?&logo=x"/>
   </a>
   <a href="https://www.behance.net/yashedthisara">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Behance-000?&logo=behance"/>
+  </a>
+  <a href="https://instagram.com/yashh._.h">
+    <img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I'm a software engineer at WSO2 building developer tooling and platform infrastructure. Alongside that, I'm completing a CS degree at the University of Colombo School of Computing. I also design UIs and build games in my free time.
 
 ---
 
-### 📊 GitHub Stats
+### Languages
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</div>
+![Go](https://img.shields.io/badge/-Go-000?&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 
-<br/>
+### Technologies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yashed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+### Design & Creative
+
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Illustrator](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+
+### Projects
+
+<!-- Replace with your actual repo names -->
+[![](https://img.shields.io/badge/-🔧%20Agent%20Platform-000)](https://github.com/yashed)
+[![](https://img.shields.io/badge/-🎮%20Game%20Project-000)](https://github.com/yashed)
+[![](https://img.shields.io/badge/-🎨%20UI%20Showcase-000)](https://github.com/yashed)
+[![](https://img.shields.io/badge/-🌐%20Web%20App-000)](https://github.com/yashed)
 
 ---
 
-### 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashed&theme=tokyo-night&hide_border=true&area=true&area_color=0ea5e9)](https://github.com/yashed)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=110&section=footer" width="100%"/>
+<a href="https://github.com/yashed">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yashed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
