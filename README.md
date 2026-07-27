@@ -63,7 +63,7 @@ I'm a software engineer at WSO2 building developer tooling and platform infrastr
 ### Projects
 
 <!-- Replace with your actual repo names -->
-[![](https://img.shields.io/badge/-🔧%20Agent%20Platform-000)](https://github.com/yashed)
+[![](https://img.shields.io/badge/-🔧%20Agent%20Platform-000)]([https://github.com/yashed](https://github.com/wso2/agent-manager))
 [![](https://img.shields.io/badge/-🎮%20Game%20Project-000)](https://github.com/yashed)
 [![](https://img.shields.io/badge/-🎨%20UI%20Showcase-000)](https://github.com/yashed)
 [![](https://img.shields.io/badge/-🌐%20Web%20App-000)](https://github.com/yashed)
