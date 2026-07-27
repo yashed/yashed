@@ -1,47 +1,31 @@
-<div align="center">
+<h1 align="center">Yashed Thisara</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=28&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Yashed+Thisara;Software+Engineer+%40+WSO2;Developer+%7C+Designer+%7C+Creator)](https://git.io/typing-svg)
+<p align="center">
+  Software Engineer @ <a href="https://wso2.com">WSO2</a> &nbsp;·&nbsp;
+  CS Undergraduate @ UCSC &nbsp;·&nbsp; Sri Lanka 🇱🇰
+</p>
 
-<br/>
-
-<a href="mailto:yashedthisara2001@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail"/></a>
-<a href="https://linkedin.com/in/yashed-thisara-8b5135219"><img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"/></a>
-<a href="https://twitter.com/yashed6"><img src="https://img.shields.io/badge/-X-000?&logo=x"/></a>
-<a href="https://www.behance.net/yashedthisara"><img src="https://img.shields.io/badge/-Behance-000?&logo=behance"/></a>
-<a href="https://instagram.com/yashh._.h"><img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram"/></a>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=yashed&style=flat-square&color=white&label=profile+views"/>
-
-</div>
+<p align="center">
+  <a href="mailto:yashedthisara2001@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/yashed-thisara-8b5135219">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/yashed6">
+    <img src="https://img.shields.io/badge/-X-000?&logo=x"/>
+  </a>
+  <a href="https://www.behance.net/yashedthisara">
+    <img src="https://img.shields.io/badge/-Behance-000?&logo=behance"/>
+  </a>
+  <a href="https://instagram.com/yashh._.h">
+    <img src="https://img.shields.io/badge/-Instagram-000?&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
-```go
-type Developer struct {
-    Name      string
-    Role      string
-    Company   string
-    Degree    string
-    Location  string
-    Interests []string
-    Contact   string
-}
-
-me := Developer{
-    Name:     "Yashed Thisara",
-    Role:     "Software Engineer",
-    Company:  "WSO2",
-    Degree:   "BSc Computer Science @ UCSC",
-    Location: "Sri Lanka 🇱🇰",
-    Interests: []string{
-        "Platform Engineering",
-        "Game Development",
-        "UI/UX Design",
-    },
-    Contact: "yashedthisara2001@gmail.com",
-}
-```
+I'm a software engineer at WSO2 building developer tooling and platform infrastructure. Alongside that, I'm completing a CS degree at the University of Colombo School of Computing. I also design UIs and build games in my free time.
 
 ---
 
@@ -78,7 +62,7 @@ me := Developer{
 
 ### Projects
 
-<!-- Replace with your actual repo links -->
+<!-- Replace with your actual repo names -->
 [![](https://img.shields.io/badge/-🔧%20Agent%20Platform-000)](https://github.com/yashed)
 [![](https://img.shields.io/badge/-🎮%20Game%20Project-000)](https://github.com/yashed)
 [![](https://img.shields.io/badge/-🎨%20UI%20Showcase-000)](https://github.com/yashed)
@@ -86,19 +70,7 @@ me := Developer{
 
 ---
 
-<div align="center">
-
 <a href="https://github.com/yashed">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yashed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yashed&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashed&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=yashed&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=222222"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashed&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=888888&point=ffffff&area=true&area_color=222222)](https://github.com/yashed)
-
-</div>
